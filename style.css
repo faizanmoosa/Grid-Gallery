@@ -52,10 +52,10 @@ body {
     background-position: center;
     box-shadow: 0 0 5px #fff;
 }
-#row-2 {
+.row-2 {
     grid-row: span 2;
 }
-#col-2 {
+.col-2 {
     grid-column: span 2;
 }
 /* Media Queries*/
